@@ -1,4 +1,4 @@
-# gender-sensitive-language
+# Open Data für gendergerechte Sprache
 
 ## Description
 Open Data for gender-sensitive and gender-inclusive language in German.  
