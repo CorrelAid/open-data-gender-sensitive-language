@@ -61,12 +61,13 @@ Der Datensatz wird unter folgender Lizenz veröffentlicht: [CC BY-NC-SA](https:/
 ## Über die Organisationen
 ### all.txt
 [all.txt](https://www.all-txt.de) ist ein Gender-Inklusivitäts-Co-Pilot, der speziell entwickelt wurde, um Inklusivität beim Schreiben zu fördern und sicherzustellen, dass jede Person angemessen durch Texte angesprochen und gesehen wird. Durch den Einsatz modernster KI-Technologie ermöglicht all.txt den Nutzenden, inklusivere und respektvollere Inhalte zu erstellen. Mit der Unterstützung von all.txt lernst du kontinuierlich, durch regelmäßige Praxisanwendung und unsere umfassenden Lernmaterialien und Erklärungen, um ein lebenslanges Engagement für Inklusivität zu fördern.
+  
+<img src="./logos/all-text-logo-with-slogan-original.png" width="250">
 
 ### Civic Data Lab
 Mit dem [Civic Data Lab](https://civic-data.de) (CDL) unterstützt das Bundesministerium für Familie, Senioren, Frauen und Jugend (BMFSFJ) die Zivilgesellschaft, Daten zu erheben, zu nutzen und weiterzugeben. 
 Das CDL wird umgesetzt von der [Gesellschaft für Informatik e.V.](https://gi.de), dem [Deutschen Caritasverband e.V.](https://www.caritas.de) und [CorrelAid e.V.](https://www.correlaid.org) Es bringt Akteur:innen aus verschiedenen Bereichen der Zivilgesellschaft und gemeinwohlorientierte Initiativen rund um das Thema der sinnvollen Datennutzung zusammen. Es leistet seinen Teil zur Transformation und Entwicklung der Zivilgesellschaft im Umgang und der Nutzung von und mit Daten.
   
-<img src="./logos/all-text-logo-with-slogan-original.png" width="250">
 <img src="./logos/Logo_CivicDataLab_RGB.png" width="250">
 
 
